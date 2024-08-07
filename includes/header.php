@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="test.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/mobile.css">
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">

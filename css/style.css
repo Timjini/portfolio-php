@@ -1,3 +1,10 @@
-.test {
-  color: blue;
+body {
+  background-color: black;
+  color: #f5f5f5;
+}
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
+.arrow {
+  cursor: pointer;
 }
