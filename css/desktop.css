@@ -1,0 +1,8 @@
+@media only screen and (min-width: 1008px) {
+    .playground{
+        display: grid;
+        grid-template-areas: "nav content content";
+      }
+      .navigation {grid-area: nav;}
+      .content {grid-area: content;}
+}

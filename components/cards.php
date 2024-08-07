@@ -1,6 +1,6 @@
 <div class="card-container flex flex-row flex-wrap justify-center items-center">
          <?php foreach ($cards as $card): ?>
-         <div class="card p-2 hover:animate-pulse">
+         <a href="#" class="card p-2 hover:animate-pulse">
             <img class="object-cover lg:w-[550px]" src="<?php echo htmlspecialchars($card['image']); ?>" alt="Card image">
             <div class="card-body flex flex-row justify-between m-2">
                <h2 class="card-title"><?php echo htmlspecialchars($card['title']); ?></h2>
@@ -8,6 +8,6 @@
                call_made
                </span>
             </div>
-         </div>
+         </a>
          <?php endforeach; ?>
 </div>

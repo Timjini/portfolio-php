@@ -7,10 +7,11 @@
       <title>Document</title>
       <?php include 'includes/header.php'; ?>
    </head>
-   <body>
+   <body class="playground">
       <?php include 'includes/nav.php'; ?>
-      <?php include 'home.php'; ?>
-      <?php include 'includes/footer.php'; ?>
+      <div class="content">
+         <?php include 'home.php'; ?>
+      </div>
       <?php include 'includes/scripts.php'; ?>
       </div>
    </body>
