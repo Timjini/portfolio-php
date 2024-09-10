@@ -14,7 +14,7 @@
       "image": "assets/img/chambers.png",
       "stack":"PHP, MySQL",
       "url":"https://club.chambersforsport.com/",
-      "github":""
+      "github":"https://github.com/Timjini"
     },
     {
         "slug": "e-guide-solutions",
@@ -31,7 +31,7 @@
         "image": "https://devminds.cloud/assets/img/eguide-dashboard.png",
         "stack": "MERN, React Native",
         "url":"https://e-guidesolutions.com/",
-        "github":""
+        "github":"https://github.com/Timjini"
       },
     {
         "slug": "academy-chambers-sport-portal",
@@ -48,7 +48,7 @@
         "image": "assets/img/portal.png",       
         "stack": "Ruby on Rails",
         "url" :"https://club.chambersforsport.com/",
-        "github":""
+        "github":"https://github.com/Timjini"
     }
   ]
   
