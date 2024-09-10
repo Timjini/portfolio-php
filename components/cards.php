@@ -1,4 +1,4 @@
-<div class="card-container flex flex-row flex-wrap justify-center items-center">
+<div id="current" class="card-container flex flex-row flex-wrap justify-center items-center">
          <?php foreach ($cards as $card): ?>
          <a href="project.php?slug=<?php echo htmlspecialchars($card['slug']); ?>" class="card p-2 hover:animate-pulse">
             <img class="object-cover lg:w-[550px] lg:h-[367px] card-image" src="<?php echo htmlspecialchars($card['image']); ?>" alt="Card image">
@@ -10,4 +10,7 @@
             </div>
          </a>
          <?php endforeach; ?>
+</div>
+<div id="comingSoon" class="hidden card-container flex flex-row flex-wrap justify-center items-center my-auto">
+   <h1 class="mt-20 text-4xl" > Coming Soon </h1>
 </div>

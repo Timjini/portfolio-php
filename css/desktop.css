@@ -18,5 +18,5 @@
         padding: 20px;
         text-align: center;
     }
-      .content {grid-area: content;overflow-y: auto;height: 100vh; padding-left: 100px;padding-top:50px;}
+      .content {grid-area: content;overflow-y: auto;height: 100vh; padding-left: 100px;padding-top:20px;}
 }
