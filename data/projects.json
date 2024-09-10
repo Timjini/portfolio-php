@@ -1,0 +1,54 @@
+[
+    {
+      "slug": "chambers-for-sport",
+      "title": "Dwain Chambers",
+      "description": "This innovative full stack web application, developed in PHP, is crafted to elevate the online presence of athletes. It provides a comprehensive platform for showcasing athlete profiles and facilitating user interactions.",
+      "paragraphDetail":"This is a full stack web application developed using PHP, designed as an athlete showcase platform. The website features forms for visitors to sign up for taster sessions or join an academy, and includes a compact dashboard for administrative tasks. It uses a MySQL database to store and manage data, and integrates with a Ruby on Rails API for seamless backend connectivity.",
+      "keyTitle1":"User-Friendly Forms:",
+      "key1":"Multiple forms allow athletes and users to easily sign up for taster sessions or register for the academy.",
+      "keyTitle2":"Dashboard and Data Management:",
+      "key2":"A small but efficient dashboard enables administrators to oversee sign-ups and manage athlete data.",
+      "keyTitle3":"Backend Integration:",
+      "key3":"Backend Integration: The platform uses a MySQL database for data storage and communicates with a Ruby on Rails API for enhanced backend functionality.",
+      "finalDetail":"This platform was created for European champion Dwain Chambers, designed to showcase his expertise and streamline athlete enrollment for his academy.",
+      "image": "assets/img/chambers.png",
+      "stack":"PHP, MySQL",
+      "url":"https://club.chambersforsport.com/",
+      "github":""
+    },
+    {
+        "slug": "e-guide-solutions",
+      "title": "E-guide Solutions",
+        "description": "Enhance your tours experience with our innovative app. Simply download it, connect to your tour, and let our audio guide narrate the sights, stories, and history of your destination directly through your mobile device.",
+        "paragraphDetail": "This MERN stack application, built with React Native, is designed to elevate your tour experience. It provides a seamless way to connect to various tours and enjoy an immersive audio guide that narrates the details of your destination. The app leverages modern technology to deliver an engaging and informative tour experience.",
+        "keyTitle1": "Seamless Connectivity:",
+        "key1": "Easily download the app and connect to your tour with minimal setup required.",
+        "keyTitle2": "Immersive Audio Guide:",
+        "key2": "Enjoy a narrated experience that brings the sights, stories, and history of your destination to life through your mobile device.",
+        "keyTitle3": "Modern Technology Integration:",
+        "key3": "Utilizes the MERN stack and React Native to ensure a smooth and engaging user experience on both iOS and Android platforms.",
+        "finalDetail": "This app is designed to enhance your travel experiences by providing detailed and captivating audio guides, making every tour memorable and informative.",
+        "image": "https://devminds.cloud/assets/img/eguide-dashboard.png",
+        "stack": "MERN, React Native",
+        "url":"https://e-guidesolutions.com/",
+        "github":""
+      },
+    {
+        "slug": "academy-chambers-sport-portal",
+        "title": "Academy Chambers for Sport Portal",
+        "description": "The Academy Chambers for Sport Portal is a robust Ruby on Rails application designed to streamline the management of athletes' progress and facilitate communication with their parents. It also provides features for scheduling sessions and dispatching coaches across multiple sports.",
+        "paragraphDetail": "This Ruby on Rails portal is crafted to support the comprehensive management of athlete progress within the Academy Chambers for Sport. It allows for efficient scheduling of sessions, dispatching of coaches, and sharing of detailed progress reports with parents. The system is designed to handle multiple sports, providing a versatile solution for academy operations.",
+        "keyTitle1": "Athlete Progress Management:",
+        "key1": "Track and manage the progress of athletes with detailed reports and updates shared directly with their parents.",
+        "keyTitle2": "Session Scheduling and Coach Dispatch:",
+        "key2": "Easily schedule sessions and dispatch coaches to ensure smooth operation across various sports and lessons.",
+        "keyTitle3": "Comprehensive Multi-Sport Support:",
+        "key3": "Supports the management and scheduling of sessions across multiple sports, catering to diverse athletic programs.",
+        "finalDetail": "This portal is designed to enhance the operational efficiency of the Academy Chambers for Sport, providing a centralized system for managing athlete progress, scheduling, and coaching assignments.",
+        "image": "assets/img/portal.png",       
+        "stack": "Ruby on Rails",
+        "url" :"https://club.chambersforsport.com/",
+        "github":""
+    }
+  ]
+  

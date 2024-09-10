@@ -1,8 +1,22 @@
-@media only screen and (min-width: 1008px) {
+@media only screen and (min-width: 1380px) {
     .playground{
         display: grid;
+        grid-template-columns: 200px 1fr;
         grid-template-areas: "nav content content";
       }
-      .navigation {grid-area: nav;}
-      .content {grid-area: content;}
+      .navigation {
+        grid-area: nav;
+        position: fixed;
+        height: 100vh;
+        top:0;
+        left: 0;
+        color: #fff;
+        font-family: 'Press Start 2P', cursive; /* Retro pixel font */
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+        border-right: 3px solid #222;
+        z-index: 1000;
+        padding: 20px;
+        text-align: center;
+    }
+      .content {grid-area: content;overflow-y: auto;height: 100vh; padding-left: 100px;padding-top:50px;}
 }
